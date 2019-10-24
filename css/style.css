@@ -15,6 +15,7 @@ body {
     text-indent: 2em;
     margin-left: 20%;
     margin-right: 20%;
+    line-height: 150%;
 }
 a {
     text-decoration: none;
@@ -40,13 +41,7 @@ img {
 name {
     font-weight: bold;
     text-align: left;
-}
-.container {
-    width: 100%;
-    float: center;
-    padding: 3% 4%;
-    text-align: center;
-    background: #c9c9c9;
+    font-size: 102%;
 }
 .cabecalho {
     width: 100%;
@@ -63,6 +58,7 @@ name {
     text-align: left;
     background: #c9c9c9;
     margin-top: 2%;
+    line-height: 120%;
 }
 .botaoCabecalho {
     padding: 1%;
@@ -73,4 +69,7 @@ name {
 .linkCabecalho {
     color: black;
     font-weight: bold;
+}
+ingles {
+    font-style: italic;
 }
